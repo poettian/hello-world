@@ -1,6 +1,8 @@
 {
     "name": "poettian/hello-world",
+    "description": "Words for day",
     "require": {
+        "php": "^7.1",
         "monolog/monolog": "1.0.*"
     }
 }
